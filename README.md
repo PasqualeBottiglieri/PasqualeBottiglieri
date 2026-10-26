@@ -7,11 +7,13 @@
 ### Tech
 `Next.js` · `React` · `TypeScript` · `Node.js` · `Laravel` · `PHP` · `PostgreSQL` · `MySQL` · `Prisma` · `Docker` · `Nginx` · `WordPress` · `Tailwind` · `GSAP`
 
-### Featured projects
-- 🍽️ **[MenuPronto](https://github.com/PasqualeBottiglieri/menupronto)** — QR digital-menu SaaS for restaurants. Next.js, Prisma/PostgreSQL, Stripe, NextAuth, OCR import. Live → [menupronto.shop](https://menupronto.shop)
-- 🏋️ **[ManagerGym](https://github.com/PasqualeBottiglieri/managergym)** — Gym management platform. Node.js API with a Docker stack (PostgreSQL, Redis, MinIO).
-- ✨ **[universe-awwwards](https://github.com/PasqualeBottiglieri/universe-awwwards)** — Awwwards-style animated front-end demo.
-- 🖤 **[maison-nera](https://github.com/PasqualeBottiglieri/maison-nera)** — Luxury front-end UI demo.
+### Open-source demos
+- ✨ **[universe-awwwards](https://github.com/PasqualeBottiglieri/universe-awwwards)** — Awwwards-style 3D/WebGL front-end demo (Three.js, GSAP, Lenis).
+- 🖤 **[maison-nera](https://github.com/PasqualeBottiglieri/maison-nera)** — Luxury front-end UI demo (GSAP, Lenis, Tailwind).
+
+### Products I build & run
+- 🍽️ **MenuPronto** — QR digital-menu SaaS for restaurants. Next.js, Prisma/PostgreSQL, Stripe, NextAuth, OCR import. Live → [menupronto.shop](https://menupronto.shop)
+- 🏋️ **ManagerGym** — gym management platform (Node.js API, Docker stack).
 
 ### More work
 Portfolio & case studies → **[bottiglieridesign.com](https://bottiglieridesign.com)**
